@@ -1,4 +1,5 @@
-from TwoSum import TwoSum.*;
+package TwoSum;
+
 public class Main {
     public static void main(String[] args) {
 
